@@ -1,4 +1,4 @@
-# UK Telecoms LTD – Customer Cease Prediction
+# Telecoms  – Customer Cease Prediction
 
 ##  Project Objective
 
