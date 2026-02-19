@@ -84,7 +84,7 @@ Risk Scoring & Business Recommendations
 
 ---
 
-## ⚙️ Technical Stack
+## Technical Stack
 
 - Python
 - DuckDB
@@ -98,7 +98,7 @@ Risk Scoring & Business Recommendations
 
 ---
 
-## 🛠 Feature Engineering
+##  Feature Engineering
 
 Feature engineering focused on behavioural risk signals aligned with real-world churn patterns.
 
@@ -129,12 +129,12 @@ These features capture patterns that typically precede cease placement.
 
 ---
 
-## 🤖 Model Selection
+##  Model Selection
 
 Model Used: **LightGBM Classifier**
 
 
-## 📊 Model Performance
+##  Model Performance
 
 | Metric | Score |
 |--------|--------|
